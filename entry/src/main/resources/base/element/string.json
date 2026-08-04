@@ -1,0 +1,82 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "UiTest display test codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Playground exercising ResizeDirection, MouseButton, MatchPattern and DisplayRotation via UiTest"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Display Test"
+    },
+
+    {
+      "name": "playground_page_title",
+      "value": "Display Test"
+    },
+    {
+      "name": "playground_page_subtitle",
+      "value": "UiTest Playground"
+    },
+
+    {
+      "name": "resize_probe_title",
+      "value": "Resize Target"
+    },
+    {
+      "name": "resize_probe_hint",
+      "value": "Driven by ResizeDirectionTest - expects rejection on watch"
+    },
+
+    {
+      "name": "match_rail_title",
+      "value": "Match Target Rail"
+    },
+    {
+      "name": "match_rail_hint",
+      "value": "Tap a chip to test MatchPattern"
+    },
+    {
+      "name": "last_match_label",
+      "value": "Last match"
+    },
+    {
+      "name": "last_match_placeholder",
+      "value": "None yet"
+    },
+
+    {
+      "name": "mouse_zone_title",
+      "value": "Mouse Zone"
+    },
+    {
+      "name": "mouse_zone_hint",
+      "value": "Last simulated mouse click"
+    },
+    {
+      "name": "mouse_zone_placeholder",
+      "value": "Waiting for a click"
+    },
+
+    {
+      "name": "rotation_status_title",
+      "value": "Rotation Status"
+    },
+    {
+      "name": "rotation_status_hint",
+      "value": "Read-only - driven by DisplayRotationTest"
+    },
+
+    {
+      "name": "playground_log_title",
+      "value": "Playground Log"
+    },
+    {
+      "name": "playground_log_empty",
+      "value": "No actions yet - tap a chip or the mouse zone"
+    }
+  ]
+}

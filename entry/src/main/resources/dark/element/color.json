@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_background",
+      "value": "#000000"
+    },
+    {
+      "name": "trigger_item_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "primary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "subtitle_text",
+      "value": "#9A9A9E"
+    },
+    {
+      "name": "primary_button_background",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "primary_button_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "chip_background",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "resize_accent",
+      "value": "#F0B255"
+    },
+    {
+      "name": "mouse_accent",
+      "value": "#9B87FF"
+    },
+    {
+      "name": "rotation_accent",
+      "value": "#4DD0E1"
+    },
+    {
+      "name": "match_accent",
+      "value": "#3D8BFF"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "float": [
+    {
+      "name": "page_title_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "page_subtitle_font_size",
+      "value": "8fp"
+    },
+    {
+      "name": "section_title_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "section_spacing",
+      "value": "4vp"
+    },
+    {
+      "name": "trigger_title_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "trigger_subtitle_font_size",
+      "value": "8fp"
+    },
+    {
+      "name": "trigger_item_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "trigger_item_corner_radius",
+      "value": "10vp"
+    },
+    {
+      "name": "detail_label_font_size",
+      "value": "7fp"
+    },
+    {
+      "name": "detail_value_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "card_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "card_corner_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "card_gap",
+      "value": "5vp"
+    },
+    {
+      "name": "accent_dot_size",
+      "value": "7vp"
+    },
+    {
+      "name": "chip_padding_h",
+      "value": "10vp"
+    },
+    {
+      "name": "chip_padding_v",
+      "value": "6vp"
+    },
+    {
+      "name": "chip_corner_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "chip_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "rotation_arrow_size",
+      "value": "16fp"
+    },
+    {
+      "name": "log_tag_font_size",
+      "value": "6fp"
+    },
+    {
+      "name": "mouse_zone_min_height",
+      "value": "56vp"
+    }
+  ]
+}
